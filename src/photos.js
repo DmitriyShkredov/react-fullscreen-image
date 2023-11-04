@@ -1,0 +1,17 @@
+export default [
+  { src: "./images/img_01_256x384.jpg", width: 256, height: 384 },
+  { src: "./images/img_01_640x427.jpg", width: 640, height: 427 },
+  { src: "./images/img_03_640x360.jpg", width: 640, height: 360 },
+  { src: "./images/img_04_256x384.jpg", width: 256, height: 384 },
+  { src: "./images/img_05_1200x178.jpg", width: 1200, height: 178 },
+  { src: "./images/img_01_256x384.jpg", width: 256, height: 384 },
+  { src: "./images/img_01_640x427.jpg", width: 640, height: 427 },
+  { src: "./images/img_03_640x360.jpg", width: 640, height: 360 },
+  { src: "./images/img_04_256x384.jpg", width: 256, height: 384 },
+  { src: "./images/img_05_1200x178.jpg", width: 1200, height: 178 },
+  { src: "./images/img_01_256x384.jpg", width: 256, height: 384 },
+  { src: "./images/img_01_640x427.jpg", width: 640, height: 427 },
+  { src: "./images/img_03_640x360.jpg", width: 640, height: 360 },
+  { src: "./images/img_04_256x384.jpg", width: 256, height: 384 },
+  { src: "./images/img_05_1200x178.jpg", width: 1200, height: 178 },
+];
