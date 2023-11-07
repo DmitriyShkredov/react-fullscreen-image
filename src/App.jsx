@@ -1,14 +1,9 @@
 import "./App.css";
-import { useRef } from "react";
 
 function App() {
-  const imgRef = useRef(null);
-
-  const handleClick = () => {
+  const handleClick = ({ target }) => {
     if (!document.fullscreenElement) {
-      imgRef.current.requestFullscreen().catch((error) => {
-        console.log(error);
-      });
+      target.requestFullscreen().catch((error) => console.log(error));
     } else {
       document.exitFullscreen();
     }
@@ -17,12 +12,8 @@ function App() {
   return (
     <section>
       <h2>Click me</h2>
-      <img
-        src="./images/image.jpg"
-        alt=""
-        onClick={() => handleClick()}
-        ref={imgRef}
-      />
+      <img src="./images/image01.jpg" alt="" onClick={handleClick} />
+      <img src="./images/image02.jpg" alt="" onClick={handleClick} />
     </section>
   );
 }
