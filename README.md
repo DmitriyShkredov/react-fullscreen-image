@@ -2,7 +2,9 @@
 
 #### `Demo:` https://dmitriyshkredov.github.io/react-fullscreen-image/
 
-#### `Telegram:` [https://t.me/tipichnyj_web_razrabotchik](https://t.me/tipichnyj_web_razrabotchik)
+#### `Telegram:` [https://t.me/tipichnyj_web_razrabotchik](https://t.me/tipichnyj_web_razrabotchik/25)
+
+#### `YouTube:` [Раскрываем изображение на весь экран в React JS](https://youtube.com/shorts/W0wujH1iExw)
 
 ---
 
